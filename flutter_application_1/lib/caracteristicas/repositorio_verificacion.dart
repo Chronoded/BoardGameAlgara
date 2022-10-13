@@ -172,4 +172,4 @@ Either<Problema, RegistroUsuario> obtenerRegistroUsuarioDesdeXML(
     }   
     return Right(valorARegresar);
 
-   }
+  }
